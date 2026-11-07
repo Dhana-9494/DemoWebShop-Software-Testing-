@@ -1,10 +1,23 @@
-# DemoWebShop-Software-Testing-
-Software Testing Project - DemoWebShop
-A comprehensive software testing project based on the Demo Web Shop application, covering API testing, UI test automation, test scenarios, test cases, and database validation.
+# DemoWebShop-Software-Testing
 
-Project Contents:
-API Code:API testing requests and documentation (DemoWebShop_API_Code.doc)
-Selenium Code:UI test automation scripts (DemoWebShop_Selenium_Code.doc)
-SQL Queries:Database test queries (DemoWebShop_SQL_Queries.doc)
-Test Scenarios:High-level testing scenarios (DemoWebShop_Test_Scenarios.doc)
-Test Cases:Detailed test cases sheet (DemoWebShop_Test_Cases.xlsx)
+A comprehensive software testing project covering manual testing, UI automation, API validation, and database testing for the **Demo Web Shop** application.
+
+Project Overview
+This repository contains end-to-end testing artifacts and documentation created for quality assurance practice and project execution, ensuring the application meets functional and technical standards.
+
+Included Modules & Files
+
+API_Code: Contains API testing requests, endpoints, and response documentation.
+Selenium_Code: Automation scripts developed using Selenium for UI testing workflows.
+SQL_Queries: Database queries used for backend data validation and verification.
+Test_Scenarios: High-level functional testing scenarios mapped to application features.
+Test_Cases: Detailed test case sheets with test steps, expected results, and execution statuses.
+
+Tools & Technologies Used
+Automation: Selenium WebDriver
+API Testing: Postman / API Documentation
+Database: SQL
+Management: Manual Testing Artifacts (Excel & Word)
+
+## 👤 Author
+**Dhanalakshmi Duraisamy**
